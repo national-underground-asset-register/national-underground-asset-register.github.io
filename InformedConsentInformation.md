@@ -1,4 +1,6 @@
-# National Underground Asset Register - Informed Consent
+# NUAR Extended Use Cases
+
+## Informed Consent Information
 
 ## 1.	Context
 The Geospatial Commission (GC), part of the Department for Science, 
